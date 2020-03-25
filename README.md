@@ -157,3 +157,6 @@ Shopping and errands for everyday life in a state of emergency
 *	Banks/banking business
 *	Public telephone services/corridors
 *	MyHammer or similar for housework/craftsman services.
+
+
+<img src="https://github.com/machbarschaft/machbarschaft-organization/blob/master/Pictures/Project%20Summary%20(3).png">
