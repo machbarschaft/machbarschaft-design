@@ -9,7 +9,7 @@ We also need an appropriate icon for the app, this can be found also in the file
 The roadmap concerning the desing is all about findind
 ga designer who can design the coorporate identidy also for the app and the website. So that we can ensure and constant presentation of our project to the outside. We dont want to change the logo so we will fit the comming design to the already existing logo and color scheme. 
 
-<p style="bold"Main Logo / Main Logo Black/White<br><br></p>
+<p style="bold">Main Logo / Main Logo Black/White<br><br></p>
  <span><img src="https://github.com/machbarschaft/machbarschaft-organization/blob/master/DesignElements/Logos/Logo-Black-CMYK-pos-RZ.png" height="160px" width="auto"></span>
  <span><img src="https://github.com/machbarschaft/machbarschaft-organization/blob/master/DesignElements/Logos/Logo-Black-CMYK-RZ.png" height="160px" width="auto"></span><br><br>
  App Icon with lettering / App Icon without lettering<br><br>
