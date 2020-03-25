@@ -15,6 +15,7 @@ Use Case:
 Shopping and errands for everyday life in a state of emergency
 
 Tech/ Platform:
+
 o	Machbarschaft phone number
 o	Bot/AI
 o	Machbarschaft App
