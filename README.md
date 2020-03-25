@@ -1,10 +1,11 @@
 # machbarschaft-organization
 
-Das Design und das Logo wurde von Hannah Burgstaller erstellt. Es soll den Sinn für Gemeinschaft, Herzlichkeit und Hilfsbereitschaft der nachbarschaft symbolisieren.
-Die verspielten Elemente werden mit dem geradlinigen Schriftzug ausgeglichen und bringen eine gewisse Balance in das Design
+The Design and Logo was made by the graphic designer Hanna Burgstaller. It should show the sense of the collective, warmth and helpfulness of the neighborhood. The playful elements are in balance with the straight font and so the design looks well-adjusted.
 
-Aktuell besteht das Design aus einem Farbschema und dem Logo. Das Logo haben wir in verschiedenen Versionen erhalten, damit wir es auf sämtlichen Platformen und auf hellen und dunklen Hintergründen verwenden können. 
-Die vorhandenen Versionen des Logos entsprechen dem Industriestandart. Es gibt negative, schwarz-weiß, positive und die Original Version in verschiedenen Größen.
-Da wir auch ein entsprechendes Icon für die App benötigen, ist auch dieses im Ordner zu finden. Her haben wir zwei Versionen, einmal mit dem Schriftzug MACHBARSCHAFT und einmal nur das Icon.
+At the moment the design is exists out of the logo and the color scheme. We got the logo in several versions, so we can use it for all purposes. For the website, for flyer, prints, on dark and light backgrounds. 
+The existing versions of the logos are industry standard. There are negative, positive, black and white and the original version in several sizes. 
+We also need an appropriate icon for the app, this can be found also in the files. We got here two versions, one with the lettering, one without. 
 
-Roadmap für die Zukunft bezüglich des Designs besteht darin, einen spezifischen App Designer zu finden, der uns dabei hilft, auch das Mockup und somit die Designvorlage für die App zu entwickeln. Hier wollen wir uns ander bereits vom Logo gegebenen Farb und Stilgebung beeinflussen lassen und diesen Mix aus Geradlinigkeit und Verspielten Elementen mit in das Design der app fließen lassen. 
+The roadmap concerning the desing is all about findind a designer who can design the coorporate identidy also for the app and the website. So that we can ensure and constant presentation of our project to the outside. We dont want to change the logo so we will fit the comming design to the already existing logo and color scheme. 
+
+ <img src="https://github.com/machbarschaft/machbarschaft-organization/blob/master/Logos/WhatsApp%20Image%202020-03-22%20at%2015.27.42.jpeg" height="160px" width="auto">
