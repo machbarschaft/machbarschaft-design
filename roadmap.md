@@ -15,10 +15,10 @@ Use Case:
 Shopping and errands for everyday life in a state of emergency
 
 Tech/ Platform:
-<ul>o	Machbarschaft phone number
+o	Machbarschaft phone number
 o	Bot/AI
 o	Machbarschaft App
-</ul>
+
 Communication/Marketing:
 
 o	Using the media attention from the event hackathon
