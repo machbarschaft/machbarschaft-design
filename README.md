@@ -11,8 +11,8 @@ ga designer who can design the coorporate identidy also for the app and the webs
 
 Main Logo & Main Logo Black/White<br><br>
  <span><img src="https://github.com/machbarschaft/machbarschaft-organization/blob/master/DesignElements/Logos/Logo-Black-CMYK-pos-RZ.png" height="160px" width="auto"></span>
- <span><img src="https://github.com/machbarschaft/machbarschaft-organization/blob/master/DesignElements/Logos/Logo-Black-CMYK-RZ.png" height="160px" width="auto"></span><br><br>
- App Icon with lettering & App Icon without lettering<br>
+ <span><img src="https://github.com/machbarschaft/machbarschaft-organization/blob/master/DesignElements/Logos/Logo-Black-CMYK-RZ.png" height="160px" width="auto"></span><br><br><br><br>
+ App Icon with lettering & App Icon without lettering<br><br><br>
   <img src="https://github.com/machbarschaft/machbarschaft-organization/blob/master/DesignElements/Logos/WhatsApp%20Image%202020-03-22%20at%2016.23.39.jpeg" height="160px" width="auto">
     <img src="https://github.com/machbarschaft/machbarschaft-organization/blob/master/DesignElements/Logos/WhatsApp%20Image%202020-03-22%20at%2016.23.39%20(1).jpeg" height="160px" width="auto">
 
