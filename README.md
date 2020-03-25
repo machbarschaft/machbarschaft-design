@@ -1,4 +1,4 @@
-# machbarschaft-design
+# machbarschaft-organization
 
 Das Design und das Logo wurde von Hannah Burgstaller erstellt. Es soll den Sinn für Gemeinschaft, Herzlichkeit und Hilfsbereitschaft der nachbarschaft symbolisieren.
 Die verspielten Elemente werden mit dem geradlinigen Schriftzug ausgeglichen und bringen eine gewisse Balance in das Design
