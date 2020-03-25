@@ -12,7 +12,6 @@ ga designer who can design the coorporate identidy also for the app and the webs
 You want to see more of how we organize us?
 <a href="https://drive.google.com/drive/folders/1pc_JIErepIwY-RVFvtj-JaqNG7X1rYhe">Click here to our Google Drive File</a>
 
-
 Main Logo & Main Logo Black/White<br><br><br><br>
  <span><img src="https://github.com/machbarschaft/machbarschaft-organization/blob/master/DesignElements/Logos/Logo-Black-CMYK-pos-RZ.png" height="160px" width="auto"></span> <br />
  <span><img src="https://github.com/machbarschaft/machbarschaft-organization/blob/master/DesignElements/Logos/Logo-Black-CMYK-RZ.png" height="160px" width="auto"></span><br><br><br><br>
