@@ -22,10 +22,8 @@ Main Logo & Main Logo Black/White<br><br><br><br>
     <img src="https://github.com/machbarschaft/machbarschaft-organization/blob/master/DesignElements/Logos/WhatsApp%20Image%202020-03-22%20at%2016.23.39%20(1).jpeg" height="160px" width="auto">
 
 <br>
-<br>
-<br>
 
-## The roadmap
+## The Roadmap
  
 Seamless Help without media discontinuity for older people
  
