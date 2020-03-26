@@ -13,7 +13,6 @@ ga designer who can design the coorporate identidy also for the app and the webs
 You want to see more of how we organize us?
 <a href="https://drive.google.com/drive/folders/1pc_JIErepIwY-RVFvtj-JaqNG7X1rYhe">Click here to our Google Drive File</a>
 
-
 Main Logo & Main Logo Black/White<br><br><br><br>
  <span><img src="https://github.com/machbarschaft/machbarschaft-organization/blob/master/DesignElements/Logos/Logo-Black-CMYK-pos-RZ.png" height="160px" width="auto"></span> <br />
  <span><img src="https://github.com/machbarschaft/machbarschaft-organization/blob/master/DesignElements/Logos/Logo-Black-CMYK-RZ.png" height="160px" width="auto"></span><br><br><br><br>
@@ -21,34 +20,24 @@ Main Logo & Main Logo Black/White<br><br><br><br>
   <img src="https://github.com/machbarschaft/machbarschaft-organization/blob/master/DesignElements/Logos/WhatsApp%20Image%202020-03-22%20at%2016.23.39.jpeg" height="160px" width="auto">
     <img src="https://github.com/machbarschaft/machbarschaft-organization/blob/master/DesignElements/Logos/WhatsApp%20Image%202020-03-22%20at%2016.23.39%20(1).jpeg" height="160px" width="auto">
 
-<br>
-<br>
-<br>
-
-# ROADMAP
-## MACHBARSCHAFT - Ein Anruf machts möglich
+## The Roadmap
  
-
 Seamless Help without media discontinuity for older people
  
 We are developing a telephone service that older people can simply call to express their needs. A bot receives the request and, with the help of artificial intelligence, creates a request which we feed into an app. In the app, there are volunteer neighbours who accept requests and take care of things - from small purchases to picking up medication or other daily chores.
 „So machen wir Nachbar:innen zu Machbar:innen“
 „So neighborhoods become makerhoods“
 
-
-
 ### Period 1: BUILD AND LAUNCH – actual state
 #### Time span: Begin of hackathon until one week after. 20.3.2020 – 29.3.2020
 Use Case: 
 Shopping and errands for everyday life in a state of emergency
-
 
 #### Tech/ Platform:
 
 *	Machbarschaft phone number
 *	Bot/AI
 * Machbarschaft App
-
 
 #### Communication/Marketing:
 
@@ -57,11 +46,8 @@ Shopping and errands for everyday life in a state of emergency
 *	Using our social media accounts
 *	Using published article about us for our awareness level
 
-
-
 ### Period 1.1.: BUILD AND LAUNCH – FUTURE STEPS
 #### Time span: Things to do until end of this period. Now until 29.3.2020
-
 
 #### Tech/Platform:
 
@@ -69,7 +55,6 @@ Shopping and errands for everyday life in a state of emergency
 *	Adding further features like feedback function for older people via the telephone
 *	Adding an appropriate design to follow a consequent corporate Identity 
 *	Add a support e-mail to document problems, bugs or questions
-
 
 #### Communication/Marketing:
 
@@ -90,10 +75,8 @@ Shopping and errands for everyday life in a state of emergency
 *	Newspaper: Süddeutsche Zeitung – Jugend Ressort
 *	Instagram Story
 
- 
 ### Period 2: SCALE – after finishing the voting
 #### Time span: after the voting is finished. Starting from 29.03.2020
-
 
 #### Use Cases:
 *	New services, e.g. walking dogs or borrowing and exchanging things
@@ -157,3 +140,6 @@ Shopping and errands for everyday life in a state of emergency
 *	Banks/banking business
 *	Public telephone services/corridors
 *	MyHammer or similar for housework/craftsman services.
+
+
+<img src="https://github.com/machbarschaft/machbarschaft-organization/blob/master/Pictures/Project%20Summary%20(3).png">
