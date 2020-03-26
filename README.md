@@ -33,13 +33,11 @@ We are developing a telephone service that older people can simply call to expre
 Use Case: 
 Shopping and errands for everyday life in a state of emergency
 
-
 #### Tech/ Platform:
 
 *	Machbarschaft phone number
 *	Bot/AI
 * Machbarschaft App
-
 
 #### Communication/Marketing:
 
@@ -48,11 +46,8 @@ Shopping and errands for everyday life in a state of emergency
 *	Using our social media accounts
 *	Using published article about us for our awareness level
 
-
-
 ### Period 1.1.: BUILD AND LAUNCH – FUTURE STEPS
 #### Time span: Things to do until end of this period. Now until 29.3.2020
-
 
 #### Tech/Platform:
 
@@ -60,7 +55,6 @@ Shopping and errands for everyday life in a state of emergency
 *	Adding further features like feedback function for older people via the telephone
 *	Adding an appropriate design to follow a consequent corporate Identity 
 *	Add a support e-mail to document problems, bugs or questions
-
 
 #### Communication/Marketing:
 
@@ -81,10 +75,8 @@ Shopping and errands for everyday life in a state of emergency
 *	Newspaper: Süddeutsche Zeitung – Jugend Ressort
 *	Instagram Story
 
- 
 ### Period 2: SCALE – after finishing the voting
 #### Time span: after the voting is finished. Starting from 29.03.2020
-
 
 #### Use Cases:
 *	New services, e.g. walking dogs or borrowing and exchanging things
