@@ -25,17 +25,13 @@ Main Logo & Main Logo Black/White<br><br><br><br>
 <br>
 <br>
 
-# ROADMAP
-## MACHBARSCHAFT - Ein Anruf machts möglich
+## The roadmap
  
-
 Seamless Help without media discontinuity for older people
  
 We are developing a telephone service that older people can simply call to express their needs. A bot receives the request and, with the help of artificial intelligence, creates a request which we feed into an app. In the app, there are volunteer neighbours who accept requests and take care of things - from small purchases to picking up medication or other daily chores.
 „So machen wir Nachbar:innen zu Machbar:innen“
 „So neighborhoods become makerhoods“
-
-
 
 ### Period 1: BUILD AND LAUNCH – actual state
 #### Time span: Begin of hackathon until one week after. 20.3.2020 – 29.3.2020
