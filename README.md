@@ -142,4 +142,4 @@ Shopping and errands for everyday life in a state of emergency
 *	MyHammer or similar for housework/craftsman services.
 
 
-<img src="https://github.com/machbarschaft/machbarschaft-organization/blob/master/Pictures/Project%20Summary%20(3).png">
+<img src="https://github.com/machbarschaft/machbarschaft-organization/blob/master/Pictures/Startup%20Roadmap%20-%20Timeline.png">
