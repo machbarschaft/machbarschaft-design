@@ -11,7 +11,7 @@ The roadmap concerning the design is all about findind
 ga designer who can design the coorporate identidy also for the app and the website. So that we can ensure and constant presentation of our project to the outside. We dont want to change the logo so we will fit the comming design to the already existing logo and color scheme. 
 
 You want to see more of how we organize us?
-<a href="https://drive.google.com/drive/folders/1pc_JIErepIwY-RVFvtj-JaqNG7X1rYhe">Click here to our Google Drive File</a>
+<a href="https://drive.google.com/drive/folders/1pc_JIErepIwY-RVFvtj-JaqNG7X1rYhe?usp=sharing">Click here to our Google Drive Folder</a>
 
 Main Logo & Main Logo Black/White<br><br><br><br>
  <span><img src="https://github.com/machbarschaft/machbarschaft-organization/blob/master/DesignElements/Logos/Logo-Black-CMYK-pos-RZ.png" height="160px" width="auto"></span> <br />
